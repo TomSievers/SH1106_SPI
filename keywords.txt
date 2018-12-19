@@ -1,0 +1,10 @@
+# Datatypes (KEYWORD1)
+
+SH1106_SPICOM	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+
+begin	KEYWORD2
+clear	KEYWORD2
+write	KEYWORD2
+drawStr KEYWORD2
